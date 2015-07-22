@@ -1,8 +1,8 @@
 {
-  "name": "facebook/webdriver",
+  "name": "SonarDesignInc/webdriver",
   "description": "A php client for WebDriver",
-  "keywords": ["webdriver", "selenium", "php", "facebook"],
-  "homepage": "https://github.com/facebook/php-webdriver",
+  "keywords": ["webdriver", "selenium", "php", "SonarDesign"],
+  "homepage": "https://github.com/SonarDesignInc/php-webdriver",
   "type": "library",
   "license": "Apache-2.0",
   "support": {
